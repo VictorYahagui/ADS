@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Questão 1</title>
+</head>
+
+<body>
+  <h2 align="center">Ficha Cadastral</h1>
+    <font face="arial" size="2">
+      <form>
+        <table  border="0" cellpadding="1px" cellspacing="1px" align="center" width="500">
+          <tbody>
+            <tr>
+              <td>
+                <label for="Nome">Nome:</label>
+              </td>
+              <td colspan="3">
+                <input type="text" name="Nome" maxlength="50" size="52">
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="RG"> RG:</label>
+              </td>
+              <td>
+                <input type="text" name="RG" maxlength="13" size="15">
+              </td>
+              <td>
+                <label for="CPF"> CPF:</label>
+              </td>
+              <td>
+                <input type="text" name="CPF" maxlength="13" size="15">
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="Endereco"> Endereço:</label>
+              </td>
+              <td colspan="3">
+                <input type="text" name="Endereco" maxlength="50" size="52">
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="Sexo">Sexo: </label>
+              </td>
+              <td align="center">
+                <select name="Sexo">
+                  <option value="M">Masculino</option>
+                  <option value="F">Feminino</option>
+                </select>
+              </td>
+              <td>
+                <label for="Data">Data Nascimento:</label>
+              </td>
+              <td>
+                <input type="text" name="Data" size="15">
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="Situacao"> Situação Civil:</label>
+              </td>
+              <td align="center">
+                <input type="radio" name="Situacao">Solteiro(a)
+              </td>
+              <td align="center">
+                <input type="radio" name="Situacao">Casado(a)
+              </td>
+              <td align="center">
+                <input type="radio" name="Situacao">Viuvo(a)
+              </td>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+              <td align="center" colspan="4">
+                <button type="reset">Limpar Dados</button>
+              </td>
+            </tr>
+          </tfoot>
+        </table>
+      </form>
+    </font>
+</body>
+
+</html>
