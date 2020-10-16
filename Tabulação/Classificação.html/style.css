@@ -71,3 +71,23 @@ div.default{
   border-radius: 2px;
   border-color: #CCCCCC;
 }
+.square1{
+  width: 0;
+  height: 0;
+  background-color: #003366;
+}
+.square2{
+  width: 0;
+  height: 0;
+  background-color: #1398BE;
+}
+.square3{
+  width: 0;
+  height: 0;
+  background-color: #DE9800;
+}
+.square4{
+  width: 0;
+  height: 0;
+  background-color: #C91B04;
+}
