@@ -1,0 +1,73 @@
+div.fontpadrao{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.tableformat{
+  border: 1px;
+  color: #DDDDDD;
+}
+.color1-3{
+  color: #003366;
+}
+.color4{
+  color: #1398BE;
+}
+.color5-12{
+  color: #DE9800;
+}
+.color13-16{
+  color: #CCCCCC;
+}
+.color17-20{
+  color: #C91B04;
+}
+.positionrank{
+  font-size: 18px;
+  font-weight: bolder;
+  text-align: center;
+}
+.titlecolum{
+  font-size: 13px;
+  color: #999999;
+  font-weight: bolder;
+  text-align: center;
+}
+.teamname{
+  font-size: 14px;
+  color: #666666;
+  font-weight: bolder;
+  text-align: left;
+}
+.columpoint{
+  font-size: 14px;
+  color: black;
+  font-weight: bolder;
+  text-align: center;
+}
+div.default{
+  font-size: 14px;
+  color: #666666;
+  text-align: center;
+}
+.legendafont{
+  font-size: 10px;
+  color: #8f8f8f;
+  text-align: left;
+}
+.legendasigla{
+  font-size: 10px;
+  color: #555555;
+  font-weight: bolder;
+  text-align: left;
+}
+.legendasignificado{
+  font-size: 10px;
+  color: #555555;
+  text-align: left;
+}
+.PVDGC{
+  background-color: #f7f7f7;
+}
+.line{
+  border-radius: 2px;
+  border-color: #CCCCCC;
+}

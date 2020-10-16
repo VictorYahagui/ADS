@@ -1,0 +1,53 @@
+.padraofont{
+  font-family: arial;
+  font-size: 12px;
+}
+.backgroundgrey{
+  background-color: #EEEEEE;
+}
+.centerIMG{
+  display: block;
+  margin-top: 5em;
+  margin-bottom: 2em;
+  margin-right: auto;
+  margin-left: auto;
+}
+.background{
+  background-color: #FFFFFF;
+  min-height: 100%;
+  width: 970px;
+  padding: 0 2em;
+}
+.container{
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.line{
+  border-color: #BBBBBB;
+}
+.login{
+  margin-bottom: 5em;
+}
+.bodyform{
+  margin-top: 5em;
+}    
+.btn-entrar{
+  width: auto;
+  float: right;
+}
+html, body{
+  height: 100%;
+}
+.rodape{
+  margin-top: 10em;
+}
+.rodape-esquerda{
+  margin-bottom: 2em;
+}
+.rodape-direita{
+  margin-bottom: 2em;
+  align: right;
+}
+
